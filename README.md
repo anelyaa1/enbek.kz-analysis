@@ -1,4 +1,6 @@
 Labor Market Analytics in Kazakhstan: Vacancy and Salary Trends
+
+You can view and run the notebook here:https://colab.research.google.com/drive/1p6KjMT8qONjGpdrOv10q6XJn-nHgAi4o?classId=82455aad-23a7-484b-9d76-cedfcb7513d6&assignmentId=27003a4a-bcec-452f-8517-da3d196c8943&submissionId=dc1c78e7-98c8-e57d-3518-38ec6ba60ab2#scrollTo=bd67f7ee-f7c8-439d-998a-7df9a110a727
 Overview
 
 This project analyzes the labor market in Kazakhstan using job vacancy data collected from Enbek.kz, the official employment platform of Kazakhstan. The dataset includes 21,929 job postings published between July 16, 2024, and December 7, 2024. The project focuses on salary distributions, regional differences, professional areas, education and experience requirements, as well as temporal and seasonal hiring patterns. A machine learning pipeline is also developed to explore the feasibility of predicting minimum salaries based on vacancy attributes.
